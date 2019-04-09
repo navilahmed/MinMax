@@ -1,0 +1,21 @@
+/*Design an implement a class MinMax that has the following properties:
+ * two integers min and max, where min is always smaller than max. 
+ * a default constructor that sets both to 0
+ * a constructor that accepts one integer and sets both to that int
+ * a constructor that accepts two integers and sets min to the smallest
+ * and max the largest of the two.
+ * getters and setters. Note that if you try to set min to larger than max
+ * then the values should switch. eg. Max = 5, min = 2 if you try
+ * to set min to 8, then min should be 5 and max is 8. Same for setMax
+ * eg. Max = 5, min = 2 if you try to set max to -2, then max is set to 2 
+ * and min to -2. 
+ * add method that accepts a MinMax object and adds min of the object to the 
+ * min of the invoking object(this) and same for max. 
+ * method toString() that return a string with min and max values 
+ * as "min: 2, max: 5"
+ * Write a tester where you test all methods and constructors of your class. 
+ *  
+ */
+public class MinMax {
+	
+}
