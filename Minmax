@@ -1,3 +1,5 @@
+//how should I proceed with this code?
+
 /*Design an implement a class MinMax that has the following properties:
  * two integers min and max, where min is always smaller than max. 
  * a default constructor that sets both to 0
